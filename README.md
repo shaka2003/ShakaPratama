@@ -1,5 +1,8 @@
 ## Hi! 👋 I'm Shaka.
 I'm a final year software engineering student at **Telkom University**
+<br>
+If youre interested in me, heres my <a href="https://www.linkedin.com/in/shaka-pratama-832843200">Linkedin</a> profile.
+
 
 <p align="left">
 <a href="https://github.com/shaka2003">
